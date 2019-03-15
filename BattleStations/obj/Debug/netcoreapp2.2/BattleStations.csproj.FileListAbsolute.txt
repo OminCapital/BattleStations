@@ -1,0 +1,11 @@
+C:\Users\sdgre\Documents\Github\BattleStations\bin\Debug\netcoreapp2.2\BattleStations.deps.json
+C:\Users\sdgre\Documents\Github\BattleStations\bin\Debug\netcoreapp2.2\BattleStations.runtimeconfig.json
+C:\Users\sdgre\Documents\Github\BattleStations\bin\Debug\netcoreapp2.2\BattleStations.runtimeconfig.dev.json
+C:\Users\sdgre\Documents\Github\BattleStations\bin\Debug\netcoreapp2.2\BattleStations.dll
+C:\Users\sdgre\Documents\Github\BattleStations\bin\Debug\netcoreapp2.2\BattleStations.pdb
+C:\Users\sdgre\Documents\Github\BattleStations\obj\Debug\netcoreapp2.2\BattleStations.csprojAssemblyReference.cache
+C:\Users\sdgre\Documents\Github\BattleStations\obj\Debug\netcoreapp2.2\BattleStations.csproj.CoreCompileInputs.cache
+C:\Users\sdgre\Documents\Github\BattleStations\obj\Debug\netcoreapp2.2\BattleStations.AssemblyInfoInputs.cache
+C:\Users\sdgre\Documents\Github\BattleStations\obj\Debug\netcoreapp2.2\BattleStations.AssemblyInfo.cs
+C:\Users\sdgre\Documents\Github\BattleStations\obj\Debug\netcoreapp2.2\BattleStations.dll
+C:\Users\sdgre\Documents\Github\BattleStations\obj\Debug\netcoreapp2.2\BattleStations.pdb
